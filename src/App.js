@@ -14,7 +14,7 @@ function App() {
       </div>
       <div className="footer">
         <small><i>Todo application created in React.js </i><b>#Github</b></small>
-        <a href=""><b><img src={github} className="github-logo" alt="github" /></b></a>
+        <a href="https://github.com/vpoharkar/user-todo-react-app"><b><img src={github} className="github-logo" alt="github" /></b></a>
       </div>
     </div>
   );
