@@ -12,6 +12,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+### General usage:
+The way this Todo List app works is pretty simple. 
+## Adding Todo
+  1. Type in a task or item or whatever you want into the input field and press Add (or hit Enter/Return). 
+  2. Once you've submitted your item, you will see it appear as an entry.
+  3. You can keep adding item to add additional entries and have them all show up.
+ ## Removing items
+  1. To remove an item, just click on an existing entry.
+  2. That entry will be removed.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
